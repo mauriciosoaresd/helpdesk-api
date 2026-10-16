@@ -64,10 +64,10 @@ O **HelpDesk OS** foi concebido para resolver o problema de gestão de chamados 
 ### **Passos:**
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/helpdesk-os-fullstack.git](https://github.com/seu-usuario/helpdesk-os-fullstack.git)
+git clone [https://github.com/mauriciosoaresd/helpdesk-api.git](https://github.com/seu-usuario/helpdesk-os-fullstack.git)
 
 # 2. Acesse a pasta do projeto
-cd helpdesk-os-fullstack
+cd helpdesk-api
 
 # 3. Suba o ambiente via Docker Compose
 docker-compose up -d --build
