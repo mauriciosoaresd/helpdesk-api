@@ -1,5 +1,6 @@
 package com.mauriciosoaresd.backend_gestao_os_api.controller;
 
+import com.mauriciosoaresd.backend_gestao_os_api.dto.LoginRequestDTO;
 import com.mauriciosoaresd.backend_gestao_os_api.dto.UsuarioRequestDTO;
 import com.mauriciosoaresd.backend_gestao_os_api.dto.UsuarioResponseDTO;
 import com.mauriciosoaresd.backend_gestao_os_api.repository.UsuarioRepository;
